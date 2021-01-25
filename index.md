@@ -24,12 +24,14 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 [Yaapu Frsky Telemetry Script](https://github.com/yaapu/FrskyTelemetryScript)
 
-## Youtubers
-[Joshua Bardwell](https://www.youtube.com/JoshuaBardwell)
+## Bloggers
+[Joshua Bardwell - YouTube](https://www.youtube.com/JoshuaBardwell)
 
-[Painless360](https://www.youtube.com/channel/UCp1vASX-fg959vRc1xowqpw)
+[Painless360 - YouTube](https://www.youtube.com/channel/UCp1vASX-fg959vRc1xowqpw)
 
-[RC Video Reviews](https://www.youtube.com/channel/UCcJwn8V3MTsib2LjAcTnarg)
+[RC Video Reviews - YouTube](https://www.youtube.com/channel/UCcJwn8V3MTsib2LjAcTnarg)
+
+[Oscar Liang - Web](https://oscarliang.com)
 
 ## YouTube Tutorials
 [Joshua Bardwell - How to install OpenTX Companion and set up your first model](https://www.youtube.com/watch?v=iwndEhssna8)
