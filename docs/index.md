@@ -1,37 +1,24 @@
-## Welcome to OpenTX signpost
+# Welcome to OpenTX signpost
+Mission of this page is to collect a provide all relevant links and stuff relevant for OpenTX not only for beginners but also advanced users.
 
-You can use the [editor on GitHub](https://github.com/valfa14/opentx_signpost/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) or [Pull request](https://github.com/valfa14/opentx_signpost/pulls)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## General links
 
-### Markdown
+[Welcome to OpenTX](https://www.open-tx.org)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[OpenTX github](https://github.com/opentx/opentx)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Custom Lua scripts
+### Telemetry
+[INAVFlight LuaTelemetry](https://github.com/iNavFlight/LuaTelemetry)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Tutorials
+[RC Video Reviews OpenTx Tutorial • Beginner Series YOUTUBE list](https://www.youtube.com/playlist?list=PLy3TC1ILJYTjqDXFB84oXVWZG14zyMYYt)
 
-**Bold** and _Italic_ and `Code` text
+[RC Video Reviews OpenTx Tutorial • Intermediate and Advanced Series YOUTUBE list](https://www.youtube.com/playlist?list=PLy3TC1ILJYTjqDXFB84oXVWZG14zyMYYt)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/valfa14/opentx_signpost/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Useful links
