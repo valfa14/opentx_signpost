@@ -9,16 +9,22 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 [OpenTX github](https://github.com/opentx/opentx)
 
+[OpenTX download](https://www.open-tx.org/downloads)
+
+[OpenTX documents](https://www.open-tx.org/documents)
+
+[OpenTX Discord chat](https://discord.com/invite/CZCwVx2)
 
 ## Custom Lua scripts
 ### Telemetry
 [INAVFlight LuaTelemetry](https://github.com/iNavFlight/LuaTelemetry)
 
 
-## Tutorials
-[RC Video Reviews OpenTx Tutorial • Beginner Series YOUTUBE list](https://www.youtube.com/playlist?list=PLy3TC1ILJYTjqDXFB84oXVWZG14zyMYYt)
+## YouTube Tutorials
+[Joshua Bardwell - How to install OpenTX Companion and set up your first model](https://www.youtube.com/watch?v=iwndEhssna8)
 
-[RC Video Reviews OpenTx Tutorial • Intermediate and Advanced Series YOUTUBE list](https://www.youtube.com/playlist?list=PLy3TC1ILJYTjqDXFB84oXVWZG14zyMYYt)
+[RC Video Reviews OpenTx Tutorial • Beginner Series - list](https://www.youtube.com/playlist?list=PLy3TC1ILJYTjqDXFB84oXVWZG14zyMYYt)
 
+[RC Video Reviews OpenTx Tutorial • Intermediate and Advanced Series - list](https://www.youtube.com/playlist?list=PLy3TC1ILJYTjqDXFB84oXVWZG14zyMYYt)
 
 ## Useful links
