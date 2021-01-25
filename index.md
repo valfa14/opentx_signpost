@@ -1,6 +1,6 @@
 # OpenTX signpost [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/valfa14)
 
-The mission of this site is to collect a provide all relevant links and stuff to all OpenTX users.
+The mission of this site is to collect and provide all relevant links and stuff to all OpenTX users.
 
 Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) or [Pull request](https://github.com/valfa14/opentx_signpost/pulls) or send me an [email](mailto:opentx.signpost@gmail.com).
 
@@ -8,7 +8,7 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 [Welcome to OpenTX](https://www.open-tx.org)
 
-[OpenTX github](https://github.com/opentx/opentx)
+[OpenTX GitHub](https://github.com/opentx/opentx)
 
 [OpenTX download](https://www.open-tx.org/downloads)
 
@@ -24,6 +24,13 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 [Yaapu Frsky Telemetry Script](https://github.com/yaapu/FrskyTelemetryScript)
 
+## Youtubers
+[Joshua Bardwell](https://www.youtube.com/JoshuaBardwell)
+
+[Painless360](https://www.youtube.com/channel/UCp1vASX-fg959vRc1xowqpw)
+
+[RC Video Reviews](https://www.youtube.com/channel/UCcJwn8V3MTsib2LjAcTnarg)
+
 ## YouTube Tutorials
 [Joshua Bardwell - How to install OpenTX Companion and set up your first model](https://www.youtube.com/watch?v=iwndEhssna8)
 
@@ -31,22 +38,24 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 [RC Video Reviews - OpenTx Tutorial • Intermediate and Advanced Series - list](https://www.youtube.com/playlist?list=PLy3TC1ILJYTjqDXFB84oXVWZG14zyMYYt)
 
+[Painless360 - Setting up the screen/widgets (RadioMaster/Jumper/FrSky)](https://www.youtube.com/watch?v=ZSGoyAPhYIs)
+
 ## TX Modules
 ### Multiprotocol module
-[multi-module page](https://www.multi-module.org)
+[multi-module.org](https://www.multi-module.org)
 
-[pascallanger/Multiprotocol github](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)
+[pascallanger/Multiprotocol GitHub](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)
 
 [Available protocols](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module/blob/master/Protocols_Details.md)
 
-[RCgroups.com Multiprotocol forum](https://www.rcgroups.com/forums/showthread.php?2165676-DIY-Multiprotocol-TX-Module/page10000)
+[RCGroups.com forum](https://www.rcgroups.com/forums/showthread.php?2165676-DIY-Multiprotocol-TX-Module/page10000)
 
 ## Radios
 ### Radiomaster TX16S
 
 [RadiomasterRC specifications](https://radiomasterrc.com/articleb-102.html#a02)
 
-[RadiomasterRC support ticket](https://radiomasterrc.freshdesk.com/support/home)
+[RadiomasterRC support](https://radiomasterrc.freshdesk.com/support/home)
 
 #### Groups
 [Facebook Group - Official RadioMaster Rc group](https://www.facebook.com/groups/466135210714324)
