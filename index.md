@@ -13,6 +13,8 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 [OpenTX documents](https://www.open-tx.org/documents)
 
+[Supported TXs](https://www.open-tx.org/radios.html)
+
 [OpenTX Discord chat](https://discord.com/invite/CZCwVx2)
 
 ## Custom Lua scripts
