@@ -1,6 +1,7 @@
-# Welcome to OpenTX signpost
-Mission of this page is to collect a provide all relevant links and stuff for OpenTX not only for beginners but also advanced users.
+# Welcome to OpenTX signpost [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/valfa14)
 
-Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) or [Pull request](https://github.com/valfa14/opentx_signpost/pulls) or send me an [email](mailto:opentx.signpost@gmail.com)
+The mission of this site is to collect a provide all relevant links and stuff to all OpenTX users.
 
-[Pages](https://valfa14.github.io/opentx_signpost/)
+Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) or [Pull request](https://github.com/valfa14/opentx_signpost/pulls) or send me an [email](mailto:opentx.signpost@gmail.com).
+
+[Released pages](https://valfa14.github.io/opentx_signpost/)
