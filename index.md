@@ -43,13 +43,17 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 ## Radios
 ### Radiomaster TX16S
+
 [RadiomasterRC specifications](https://radiomasterrc.com/articleb-102.html#a02)
 
 [RadiomasterRC support ticket](https://radiomasterrc.freshdesk.com/support/home)
 
+#### Groups
 [Facebook Group - Official RadioMaster Rc group](https://www.facebook.com/groups/466135210714324)
 
 [Facebook Group - RadioMaster TX16S TX User Group](https://www.facebook.com/groups/609303173198626)
+
+#### Tutorials
 
 [RadioMasterRC - Mode 2 to Mode 1 Change How-to](https://www.youtube.com/watch?v=wGrkIK2pAec)
 
@@ -59,4 +63,12 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 [RC Video Reviews - How to Flash Radiomaster TX16s Internal Multiprotocol Module Firmware](https://www.youtube.com/watch?v=3JLBSaKAUQM)
 
-[RC Video Review - How to Install Radiomaster CNC Kit and Faceplate](https://www.youtube.com/watch?v=DjP_gxObyfs)
+[RC Video Reviews - How to Install Radiomaster CNC Kit and Faceplate](https://www.youtube.com/watch?v=DjP_gxObyfs)
+
+#### Reviews
+
+[Joshua Bardwell - RadioMaster TX16S is here. Jumper T16 is done.](https://www.youtube.com/watch?v=ddMP2gnZQck)
+
+[Painless360 - RadioMaster TX16s Radio: Your questions answered!](https://www.youtube.com/watch?v=4Gos_Qrl5cI)
+
+[Painless360 - RadioMaster TX16s Radio: Review update, new colour editions and bling options!](https://www.youtube.com/watch?v=1ahzfkRAdgY)
