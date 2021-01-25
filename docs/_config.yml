@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+title: OpenTX signpost
+description: OpenTX useful stuff
+url: https://valfa14.github.io/opentx_signpost
+google_analytics: UA-188076662-1
