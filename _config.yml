@@ -2,9 +2,13 @@ theme: jekyll-theme-cayman
 title: OpenTX signpost
 description: The mission of this site is to collect and provide all relevant links and stuff to all OpenTX users.
 google_analytics: UA-188076662-1
-gems:
+plugins:
   - jekyll-seo-tag
+  - jekyll-last-modified-at
 author: valfa14
 tagline: The mission of this site is to collect and provide all relevant links and stuff to all OpenTX users.
 logo: /assets/images/logo.png
 image: /assets/images/logo.png
+
+last-modified-at:
+    date-format: '%d %B %Y'
