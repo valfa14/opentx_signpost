@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to OpenTX signpost
 
 You can use the [editor on GitHub](https://github.com/valfa14/opentx_signpost/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
