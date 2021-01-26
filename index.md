@@ -1,10 +1,10 @@
-# OpenTX signpost [![donate](https://img.shields.io/static/v1?label=&message=Donate%20this%20site&color=white&logo=paypal)](https://www.paypal.com/paypalme/valfa14)
+# OpenTX signpost [![donate](https://img.shields.io/static/v1?label=&message=Donate%20this%20site&color=white&logo=paypal&style=plastic)](https://www.paypal.com/paypalme/valfa14)
 The mission of this site is to collect and provide all relevant links and stuff to all OpenTX users.
 
 Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) or [Pull request](https://github.com/valfa14/opentx_signpost/pulls) or send me an [email](mailto:opentx.signpost@gmail.com).
 
 ## General links
-- [Welcome to OpenTX](https://www.open-tx.org) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal)](https://paypal.me/opentx)
+- [Welcome to OpenTX](https://www.open-tx.org) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal&style=plastic)](https://paypal.me/opentx)
 
 - [OpenTX GitHub](https://github.com/opentx/opentx)
 
@@ -20,18 +20,18 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 - ### Telemetry
   - [INAVFlight LuaTelemetry](https://github.com/iNavFlight/LuaTelemetry)
 
-  - [Yaapu Frsky Telemetry Script](https://github.com/yaapu/FrskyTelemetryScript) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal)](https://paypal.me/yaapu)
+  - [Yaapu Frsky Telemetry Script](https://github.com/yaapu/FrskyTelemetryScript) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal&style=plastic)](https://paypal.me/yaapu)
 
 ## Bloggers
-- [Joshua Bardwell - YouTube](https://www.youtube.com/JoshuaBardwell) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=patreon)](https://www.patreon.com/bePatron?c=324734) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal)](https://paypal.me/fpvknowitall)
+- [![donate](https://img.shields.io/static/v1?label=&message=%20&color=red&logo=youtube&style=plastic) Joshua Bardwell](https://www.youtube.com/JoshuaBardwell) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=patreon&style=plastic)](https://www.patreon.com/bePatron?c=324734) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal&style=plastic)](https://paypal.me/fpvknowitall)
 
-- [Painless360 - YouTube](https://www.youtube.com/user/Painless360) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=patreon)](http://www.patreon.com/painless360) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal)](https://paypal.me/painless360)
+- [![donate](https://img.shields.io/static/v1?label=&message=%20&color=red&logo=youtube&style=plastic) Painless360](https://www.youtube.com/user/Painless360) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=patreon&style=plastic)](http://www.patreon.com/painless360) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal&style=plastic)](https://paypal.me/painless360)
 
-- [RC Video Reviews - YouTube](https://www.youtube.com/channel/UCcJwn8V3MTsib2LjAcTnarg) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=patreon)](https://www.patreon.com/rcvideoreviews)
+- [![donate](https://img.shields.io/static/v1?label=&message=%20&color=red&logo=youtube&style=plastic) RC Video Reviews](https://www.youtube.com/channel/UCcJwn8V3MTsib2LjAcTnarg) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=patreon&style=plastic)](https://www.patreon.com/rcvideoreviews)
 
-- [muteFPV - YouTube](https://www.youtube.com/channel/UCBptTBYPtHsl-qDmVPS3lcQ) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=patreon)](http://mutefpv.com/patreon) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal)](http://mutefpv.com/paypal)
+- [![donate](https://img.shields.io/static/v1?label=&message=%20&color=red&logo=youtube&style=plastic) muteFPV](https://www.youtube.com/channel/UCBptTBYPtHsl-qDmVPS3lcQ) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=patreon&style=plastic)](http://mutefpv.com/patreon) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal&style=plastic)](http://mutefpv.com/paypal)
 
-- [Oscar Liang - Web](https://oscarliang.com) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=patreon)](https://www.patreon.com/bePatron?c=365163) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal)](https://paypal.me/oscarliang)
+- [![donate](https://img.shields.io/static/v1?label=&message=Web&color=white&style=plastic) Oscar Liang](https://oscarliang.com) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=patreon&style=plastic)](https://www.patreon.com/bePatron?c=365163) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal&style=plastic)](https://paypal.me/oscarliang)
 
 ## YouTube Tutorials
 - [Joshua Bardwell - How to install OpenTX Companion and set up your first model](https://www.youtube.com/watch?v=iwndEhssna8)
@@ -44,9 +44,12 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 ## TX Modules
 - ### Multiprotocol module
-  - [multi-module.org](https://www.multi-module.org) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VF2K9T23DRY56&lc=US&item_name=DIY%20Multiprotocol&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+  - [multi-module.org](https://www.multi-module.org) [![donate](https://img.shields.io/static/v1?label=&message=%20&color=white&logo=paypal&style=plastic)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VF2K9T23DRY56&lc=US&item_name=DIY%20Multiprotocol&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+
   - [pascallanger/Multiprotocol GitHub](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)
+
   - [Available protocols](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module/blob/master/Protocols_Details.md)
+
   - [RCGroups.com forum](https://www.rcgroups.com/forums/showthread.php?2165676-DIY-Multiprotocol-TX-Module/page10000)
 
 ## Radios
