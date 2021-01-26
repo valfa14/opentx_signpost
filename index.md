@@ -1,11 +1,9 @@
 # OpenTX signpost [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/valfa14)
-
 The mission of this site is to collect and provide all relevant links and stuff to all OpenTX users.
 
 Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) or [Pull request](https://github.com/valfa14/opentx_signpost/pulls) or send me an [email](mailto:opentx.signpost@gmail.com).
 
 ## General links
-
 [Welcome to OpenTX](https://www.open-tx.org) [![donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/opentx)
 
 [OpenTX GitHub](https://github.com/opentx/opentx)
@@ -56,7 +54,6 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 ## Radios
 ### Radiomaster TX16S
-
 [RadiomasterRC specifications](https://radiomasterrc.com/articleb-102.html#a02)
 
 [RadiomasterRC support](https://radiomasterrc.freshdesk.com/support/home)
@@ -67,7 +64,6 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 [Facebook Group - RadioMaster TX16S TX User Group](https://www.facebook.com/groups/609303173198626)
 
 #### Tutorials
-
 [RadioMasterRC - Mode 2 to Mode 1 Change How-to](https://www.youtube.com/watch?v=wGrkIK2pAec)
 
 [Painless360 - Installing Telemetry LUA scripts onto the RadioMaster TX16s (Yaapu and iNav)](https://www.youtube.com/watch?v=SAQHowQ3rFM)
@@ -81,7 +77,6 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 [RC Video Reviews - How to Install Radiomaster CNC Kit and Faceplate](https://www.youtube.com/watch?v=DjP_gxObyfs)
 
 #### Reviews
-
 [Joshua Bardwell - RadioMaster TX16S is here. Jumper T16 is done.](https://www.youtube.com/watch?v=ddMP2gnZQck)
 
 [Painless360 - RadioMaster TX16s Radio: Your questions answered!](https://www.youtube.com/watch?v=4Gos_Qrl5cI)
