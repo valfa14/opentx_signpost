@@ -6,7 +6,7 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 ## General links
 
-[Welcome to OpenTX](https://www.open-tx.org)
+[Welcome to OpenTX](https://www.open-tx.org) [![donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/opentx)
 
 [OpenTX GitHub](https://github.com/opentx/opentx)
 
@@ -22,16 +22,18 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 ### Telemetry
 [INAVFlight LuaTelemetry](https://github.com/iNavFlight/LuaTelemetry)
 
-[Yaapu Frsky Telemetry Script](https://github.com/yaapu/FrskyTelemetryScript)
+[Yaapu Frsky Telemetry Script](https://github.com/yaapu/FrskyTelemetryScript) [![donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/yaapu)
 
 ## Bloggers
-[Joshua Bardwell - YouTube](https://www.youtube.com/JoshuaBardwell)
+[Joshua Bardwell - YouTube](https://www.youtube.com/JoshuaBardwell) [![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/bePatron?c=324734) [![donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/fpvknowitall)
 
-[Painless360 - YouTube](https://www.youtube.com/channel/UCp1vASX-fg959vRc1xowqpw)
+[Painless360 - YouTube](https://www.youtube.com/user/Painless360) [![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](http://www.patreon.com/painless360) [![donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/painless360)
 
-[RC Video Reviews - YouTube](https://www.youtube.com/channel/UCcJwn8V3MTsib2LjAcTnarg)
+[RC Video Reviews - YouTube](https://www.youtube.com/channel/UCcJwn8V3MTsib2LjAcTnarg) [![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/rcvideoreviews)
 
-[Oscar Liang - Web](https://oscarliang.com)
+[muteFPV](https://www.youtube.com/channel/UCBptTBYPtHsl-qDmVPS3lcQ) [![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](http://mutefpv.com/patreon) [![donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://mutefpv.com/paypal)
+
+[Oscar Liang - Web](https://oscarliang.com) [![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/bePatron?c=365163) [![donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/oscarliang)
 
 ## YouTube Tutorials
 [Joshua Bardwell - How to install OpenTX Companion and set up your first model](https://www.youtube.com/watch?v=iwndEhssna8)
@@ -44,7 +46,7 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 
 ## TX Modules
 ### Multiprotocol module
-[multi-module.org](https://www.multi-module.org)
+[multi-module.org](https://www.multi-module.org) [![donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VF2K9T23DRY56&lc=US&item_name=DIY%20Multiprotocol&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
 
 [pascallanger/Multiprotocol GitHub](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)
 
@@ -69,6 +71,8 @@ Feel free to create [issue](https://github.com/valfa14/opentx_signpost/issues) o
 [RadioMasterRC - Mode 2 to Mode 1 Change How-to](https://www.youtube.com/watch?v=wGrkIK2pAec)
 
 [Painless360 - Installing Telemetry LUA scripts onto the RadioMaster TX16s (Yaapu and iNav)](https://www.youtube.com/watch?v=SAQHowQ3rFM)
+
+[muteFPV - gimbal adjustments : stick tension, throttle ratcheting & friction - QUICK GUIDE](https://www.youtube.com/watch?v=CZ-u0Egjx3o)
 
 [RC Video Reviews - How to Adjust Gimbal Tension](https://www.youtube.com/watch?v=ICWxM7_laAA)
 
