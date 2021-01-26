@@ -13,7 +13,7 @@
     {% endif %}
     <meta charset="UTF-8">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ site.url }}/{{ site.baseurl }}/assets/images/logo.png">
+    <meta property="og:image" content="{{ site.baseurl }}{{ site.image }}">
 
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -37,7 +37,7 @@
     </header>
     -->
     <main id="content" class="main-content" role="main">
-      {{ content }}
+      {% include anchor_headings.html html=content anchorBody="#" %}
 
       <footer class="site-footer">
         <span class="site-footer-credits">Last modified at: {{ site.modified_date }}</span>
