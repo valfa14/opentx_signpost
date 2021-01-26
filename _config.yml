@@ -1,13 +1,15 @@
 theme: jekyll-theme-cayman
 title: OpenTX signpost
 description: The mission of this site is to collect and provide all relevant links and stuff to all OpenTX users.
-google_analytics: UA-188076662-1
-google_manager_id: GTM-PT3V4S5
 plugins:
   - jekyll-seo-tag
+  - jekyll-google-tag-manager
 author: valfa14
 tagline: The mission of this site is to collect and provide all relevant links and stuff to all OpenTX users.
 logo: /assets/images/logo.png
 image: /assets/images/logo.png
-
+google_analytics: UA-188076662-1
+google:
+  tag_manager:
+    container_id: GTM-PT3V4S5
 modified_date: 2021-01-26
